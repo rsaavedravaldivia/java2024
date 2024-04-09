@@ -5,7 +5,7 @@ public class Main {
     
     public static void main(String[] args) {
 
-        long number = 234;
+        long number = 2345;
         System.out.println(sumDigits(number));
 
 
