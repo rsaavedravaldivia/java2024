@@ -18,7 +18,6 @@ public class Main {
         }
         
 
-
         double answer = average(dArray);
 
         System.out.println(answer);
